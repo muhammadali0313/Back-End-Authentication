@@ -1,0 +1,20 @@
+body {
+    background-color: #f8f9fa; /* Light background for better contrast */
+  }
+  
+  h2 {
+    color: #007bff; /* Blue color for the heading */
+  }
+  
+  .card {
+    border-radius: 8px; /* Rounded corners for the card */
+  }
+  
+  .card-body {
+    padding: 30px; /* Add some more padding inside the card */
+  }
+  
+  button {
+    font-size: 16px; /* Ensure the button text is clear and legible */
+  }
+  
